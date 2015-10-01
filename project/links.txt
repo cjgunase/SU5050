@@ -1,0 +1,11 @@
+http://johnychao.blogspot.com/2014/06/playing-with-yelps-phoenix-academic.html
+
+
+http://www.ics.uci.edu/~vpsaini/
+
+
+map viz:
+http://datasyndrome.com/post/69514893525/yelp-dataset-challenge-part-0-geographic
+
+exp:
+http://kevin11h.github.io/YelpDatasetChallengeDataScienceAndMachineLearningUCSD/
