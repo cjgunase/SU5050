@@ -1,4 +1,4 @@
-data<-read.csv("./file_phoe.csv")
+data<-read.csv("./Users/chathura/Documents/yelp_dataset_challenge_academic_dataset/yelp_academic_dataset_business.csv")
 summary(data[,8])
 data$street<-as.factor(data$street)
 data$lot<-as.factor(data$lot)
@@ -120,4 +120,12 @@ write.csv(res_loc,file = "res_loc_Phenix.csv")
 
 as.factor(quartiles)
 table(quartiles)
+
+
+
+
+######################### Yelp Data miing #####
+
+
+
 
